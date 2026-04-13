@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[49172,["/vela-demo/_next/static/chunks/0c2lt422so88j.js","/vela-demo/_next/static/chunks/0k9jd8rgf9lc9.js","/vela-demo/_next/static/chunks/0k6a4-ca9m7pd.js"],"default"]
+3:I[85329,["/vela-demo/_next/static/chunks/0c2lt422so88j.js","/vela-demo/_next/static/chunks/0k9jd8rgf9lc9.js","/vela-demo/_next/static/chunks/0k6a4-ca9m7pd.js"],"default"]
+4:[]
+0:{"rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"isPartial":false,"staleTime":300,"varyParams":"$W4","buildId":"zMWIvd4bfYOuxOvxf4MLs"}
